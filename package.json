@@ -1,0 +1,10 @@
+{
+  "name": "chrome-api-mock",
+  "version": "0.0.1",
+  "description": "Repository for mimicking global chrome variable in browser. ",
+  "main": "src/index.js",
+  "repository": "https://github.com/AnandShiva/chrome-api-mock.git",
+  "author": "anandkumar.shiva@gmail.com",
+  "license": "MIT",
+  "private": false
+}
