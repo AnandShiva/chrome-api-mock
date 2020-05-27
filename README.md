@@ -14,14 +14,18 @@ This Library is intended to Mock the Chrome global variable in your tests with s
 # Installing
 
 run either:
+```
 **npm run chrome-api-mock --dev**
+```
 or
+```
 **yarn add chrome-api-mock --dev**
+```
 
 In tests you can do 
 
-const  chromeMock = require('chrome-api-mock')
-global.chrome = chromeMock.getChromeInstance();
+    const  chromeMock = require('chrome-api-mock')
+    global.chrome = chromeMock.getChromeInstance();
 
 ## Jest Specific Implementation
 
